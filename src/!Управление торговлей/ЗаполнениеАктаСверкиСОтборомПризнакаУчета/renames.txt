@@ -1,0 +1,11 @@
+﻿01c498d9-172c-483d-b067-8b00e98b8c4e-->und\01c498d9-172c-483d-b067-8b00e98b8c4e
+c5fcfec4-7db2-4222-b921-712cd295d017.0\info-->und\c5fcfec4-7db2-4222-b921-712cd295d017.0\info
+c5fcfec4-7db2-4222-b921-712cd295d017.0\text-->ObjectModule.bsl
+copyinfo-->und\copyinfo
+dfe41905-ac03-4662-a0a5-5e68c67384bd-->und\dfe41905-ac03-4662-a0a5-5e68c67384bd
+dfe41905-ac03-4662-a0a5-5e68c67384bd.0-->Form\Форма
+f4f67a8b-891d-45b0-ad3b-6364d7ca3b72-->und\f4f67a8b-891d-45b0-ad3b-6364d7ca3b72
+f4f67a8b-891d-45b0-ad3b-6364d7ca3b72.0-->Form\НастройкаОтбораУчета
+root-->und\root
+version-->und\version
+versions-->und\versions
